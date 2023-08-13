@@ -1,0 +1,97 @@
+              Variable
+======================================
+01) Variable Declare
+02) Variable Type
+03) Keyword
+04) variable Naming
+05) Math Operations
+06) Shorthand
+07) parseInt
+08) parseFloat
+09) toFixed 
+
+               String
+======================================
+01) toLowerCase
+02) toUperCase
+03) includes
+04) startsWith
+05) endsWith
+06) split
+07) join
+
+                Array
+======================================
+01) Declare Array
+02) Array length
+03) Array index
+04) Get element by index
+05) Set element by index
+06) indexOf
+07) Push
+08) Pop
+09) Shift
+10) UnShift
+11) slice
+12) splice
+
+ 
+            Conditional Statements
+======================================
+01) Comparison
+02) if - else
+03) else - if
+03) Multiple conditions(&& , || )
+04) Multi stage condition
+
+                Loop
+======================================
+01) While loop
+02) Even numbers
+03) Odd numbers
+04) Reverse number
+05) For loop
+06) loop for each element of an array
+07) Break
+08) Continue
+
+              Function
+======================================
+01) Function declare
+02) Parameter
+03) Return function
+
+
+              Object
+======================================
+01) Object declare
+02) Get the value of property
+03) Set the value of property
+04) Find all the properties of an object
+05) Find all the values of a property
+
+
+               Math
+======================================
+01) Math.pow
+02) Math.abs
+03) Math.round
+04) Math.ceil
+05) Math.floor
+06) Math.random
+
+
+                Dom
+======================================
+01) getElementsByTagName
+02) getElementByClass
+03) getElementById
+04) querySelector
+05) querySelectorAll
+06) setAttribute(style)
+07) innerText
+08) innerHTML
+09) createElement
+10) appendChild
+11) onclick handler
+12) addEventListener
